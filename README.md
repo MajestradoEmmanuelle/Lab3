@@ -1,2 +1,2 @@
-#Web Design
-Lab 3
+# Lab 3
+This lab will showcase the use of same directory links.
